@@ -1,6 +1,6 @@
-# prompt-as-method-example
+# Prompt-as-Method Example
 
-A simple example to showcase using a prompt as a method.
+A simple example to showcase using a [prompt](prompt.json) as a method on some [data](data.csv).
 
 If you have an [Ollama](https://ollama.com/download) running on the default port on your local machine:
 
