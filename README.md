@@ -41,7 +41,7 @@ pip install prompt-as-method
 python -m prompt_as_method --prompt prompt.json --data data.csv
 ```
 
-Output (indentation added, confidence might chance):
+Output (indentation added, confidence might change):
 
 ```json
 {
